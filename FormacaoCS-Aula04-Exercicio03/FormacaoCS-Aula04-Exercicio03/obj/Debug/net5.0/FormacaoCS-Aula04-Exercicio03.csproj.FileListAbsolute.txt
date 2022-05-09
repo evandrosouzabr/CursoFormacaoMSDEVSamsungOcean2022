@@ -1,0 +1,16 @@
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\bin\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.exe
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\bin\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.deps.json
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\bin\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.runtimeconfig.json
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\bin\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.runtimeconfig.dev.json
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\bin\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.dll
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\bin\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.pdb
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.csproj.AssemblyReference.cache
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.AssemblyInfoInputs.cache
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.AssemblyInfo.cs
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.dll
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\refint\FormacaoCS-Aula04-Exercicio03.dll
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.pdb
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\FormacaoCS-Aula04-Exercicio03.genruntimeconfig.cache
+C:\Users\111735\source\repos\FormacaoCS-Aula04-Exercicio03\FormacaoCS-Aula04-Exercicio03\obj\Debug\net5.0\ref\FormacaoCS-Aula04-Exercicio03.dll
