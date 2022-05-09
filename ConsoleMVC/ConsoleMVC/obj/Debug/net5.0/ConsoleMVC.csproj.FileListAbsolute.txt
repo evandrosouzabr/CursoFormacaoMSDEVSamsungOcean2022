@@ -1,0 +1,16 @@
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.csproj.AssemblyReference.cache
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.AssemblyInfoInputs.cache
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.AssemblyInfo.cs
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.csproj.CoreCompileInputs.cache
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.exe
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.deps.json
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.runtimeconfig.json
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.runtimeconfig.dev.json
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.dll
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\bin\Debug\net5.0\ConsoleMVC.pdb
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.dll
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\refint\ConsoleMVC.dll
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.pdb
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ConsoleMVC.genruntimeconfig.cache
+C:\Users\evandrosouzabr\source\repos\ConsoleMVC\ConsoleMVC\obj\Debug\net5.0\ref\ConsoleMVC.dll
