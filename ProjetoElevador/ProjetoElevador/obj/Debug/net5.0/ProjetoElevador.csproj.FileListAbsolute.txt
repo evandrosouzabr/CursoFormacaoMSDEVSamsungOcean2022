@@ -1,0 +1,16 @@
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.exe
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.deps.json
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.json
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.dev.json
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.dll
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.pdb
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.AssemblyReference.cache
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfoInputs.cache
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfo.cs
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.CoreCompileInputs.cache
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.dll
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\refint\ProjetoElevador.dll
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.pdb
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.genruntimeconfig.cache
+E:\evandrosouzabr\Documentos\GitHub\CursoFormacaoMSDEVSamsungOcean2022\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ref\ProjetoElevador.dll
